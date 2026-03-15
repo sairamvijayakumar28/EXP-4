@@ -49,5 +49,8 @@ Rectifier with filter
 WAVEFORM:
 ![alt text](image-8.png)
 ![alt text](image-10.png)
+
+
+
 RESULT:
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
